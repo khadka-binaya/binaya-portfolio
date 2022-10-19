@@ -69,6 +69,7 @@ export default class About extends Component {
                             })}
                         </ul>
                     {[two]}
+                    {[three]}
                     </div>
                     <div className="about-image">
                         <img src="" alt="" srcset="" />

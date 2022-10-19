@@ -43,7 +43,7 @@ export default class About extends Component {
         "Python",
         "React.js",
         "Java",
-        "Node.js",
+        "Laravel",
         "HTML & CSS"
       ];
   

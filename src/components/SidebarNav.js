@@ -4,7 +4,6 @@ import { CSSTransition, TransitionGroup } from "react-transition-group";
 // import EmailRoundedIcon from "@material-ui/icons/EmailRounded";
 // import LinkedInIcon from "@material-ui/icons/LinkedIn";
 // import GitHubIcon from "@material-ui/icons/GitHub";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 import "../styles/SidebarNav.css";
 import "react-typist/dist/Typist.css";
@@ -60,11 +59,6 @@ class SidebarNav extends React.Component {
         <div className="sidebar-logos" href="/">
           <a href="mailto:binayamm@gmail.com">
             {/* <EmailRoundedIcon style={{ fontSize: 20 }}></EmailRoundedIcon> */}
-            <FontAwesomeIcon
-              icon="fa-duotone fa-mailbox"
-              style={{ fontSize: 20 }}
-            />
-            <FontAwesomeIcon icon="fa-solid fa-mailbox" />
           </a>
           <a href="https://github.com/khadka-binaya">
             {/* <GitHubIcon style={{ fontSize: 19 }}></GitHubIcon> */}

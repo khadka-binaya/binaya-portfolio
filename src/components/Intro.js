@@ -33,7 +33,8 @@ export default class Intro extends Component {
           <div className="intro-subtitle">I SLEEP </div>
           <div className="intro-desc">
             I'm IT Student. I like to create Websites. And I enjoy listening to
-            Audiobooks and Podcasts.
+            Podcasts and Reading Books. I like computer and stuffs. I like the
+            new technology that comes in our daily life.
           </div>
           <a href="mailto:binayamm@gmail.com" className="intro-contact">
             {"SAY HI"}
